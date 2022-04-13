@@ -25,3 +25,6 @@
 [submodule "2021-kd-trees-nathancao2"]
 	path = 2021-kd-trees-nathancao2
 	url = https://github.com/ChadwickCSA2018-2019/2021-kd-trees-nathancao2
+[submodule "connect-4-nathancao2"]
+	path = connect-4-nathancao2
+	url = https://github.com/ChadwickCSA2018-2019/connect-4-nathancao2.git

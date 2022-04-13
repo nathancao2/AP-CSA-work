@@ -13,3 +13,6 @@
 [submodule "2020-percolation-nathancao2"]
 	path = 2020-percolation-nathancao2
 	url = https://github.com/ChadwickCSA2018-2019/2020-percolation-nathancao2
+[submodule "2020-postfix-evaluator-nathancao2"]
+	path = 2020-postfix-evaluator-nathancao2
+	url = https://github.com/ChadwickCSA2018-2019/2020-postfix-evaluator-nathancao2.git

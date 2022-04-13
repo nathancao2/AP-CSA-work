@@ -19,3 +19,6 @@
 [submodule "2021-collinear-points-nathancao2"]
 	path = 2021-collinear-points-nathancao2
 	url = https://github.com/ChadwickCSA2018-2019/2021-collinear-points-nathancao2
+[submodule "2021-deques-and-randomized-queues-nathancao2"]
+	path = 2021-deques-and-randomized-queues-nathancao2
+	url = https://github.com/ChadwickCSA2018-2019/2021-deques-and-randomized-queues-nathancao2.git

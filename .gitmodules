@@ -7,3 +7,6 @@
 [submodule "2020-binary-search-tree-nathancao2"]
 	path = 2020-binary-search-tree-nathancao2
 	url = https://github.com/ChadwickCSA2018-2019/2020-binary-search-tree-nathancao2
+[submodule "2020-grocery-store-simulator-nathancao2"]
+	path = 2020-grocery-store-simulator-nathancao2
+	url = https://github.com/ChadwickCSA2018-2019/2020-grocery-store-simulator-nathancao2.git

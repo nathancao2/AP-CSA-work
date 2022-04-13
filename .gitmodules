@@ -22,3 +22,6 @@
 [submodule "2021-deques-and-randomized-queues-nathancao2"]
 	path = 2021-deques-and-randomized-queues-nathancao2
 	url = https://github.com/ChadwickCSA2018-2019/2021-deques-and-randomized-queues-nathancao2.git
+[submodule "2021-kd-trees-nathancao2"]
+	path = 2021-kd-trees-nathancao2
+	url = https://github.com/ChadwickCSA2018-2019/2021-kd-trees-nathancao2

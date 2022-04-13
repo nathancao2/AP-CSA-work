@@ -1,3 +1,6 @@
 [submodule "8-puzzle-nathancao2"]
 	path = 8-puzzle-nathancao2
 	url = https://github.com/ChadwickCSA2018-2019/8-puzzle-nathancao2
+[submodule "2020-amazeing-recursion-nathancao2"]
+	path = 2020-amazeing-recursion-nathancao2
+	url = https://github.com/ChadwickCSA2018-2019/2020-amazeing-recursion-nathancao2
